@@ -14,6 +14,14 @@ The assessment followed a structured cybersecurity workflow:
 
 ---
 
+## 📄 Project Documentation
+
+- [View Project PDF Report](./CloudExify_Project_4.pdf)
+- [View Project Word Report](./CloudExify_Project_4_Report.docx)
+- [View Project Screenshots](./Screenshots/)
+
+  -----
+
 ## 🎯 Project Objectives
 
 * Identify security vulnerabilities on the authorized target.
