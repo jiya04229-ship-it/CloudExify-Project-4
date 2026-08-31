@@ -114,15 +114,4 @@ The assessment successfully demonstrated the use of **Tenable Nessus Essentials*
 
 ---
 
-## 🏢 Internship
-
-**CloudExify Cybersecurity Internship Program**
-
-**Project:** 04 — Vulnerability Assessment & Remediation
-**Assessment Type:** Authorized Vulnerability Assessment
-**Assessment Tool:** Tenable Nessus Essentials
-**Environment:** Kali Linux
-
----
-
 ⭐ **Project completed as part of the CloudExify Cybersecurity Internship Program.**
